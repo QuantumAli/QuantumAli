@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Working on AI -- Releasing by October of this year
+- 🔭 Working on AI -- Currently creating Voice Agents
 - 🌱 I’m currently learning on creating my own AI Robot with Teleop capabilities
 - 💬 Ask me about anything Quantum / AI or even the merger between the two
 - 📫 How to reach me: Through LinkedIn
